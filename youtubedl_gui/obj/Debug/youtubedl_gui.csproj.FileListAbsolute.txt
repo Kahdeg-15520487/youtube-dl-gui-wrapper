@@ -1,0 +1,15 @@
+C:\Users\MINH-LAPTOP\Documents\Visual Studio 2017\Workspace\c#\youtubedl_gui\youtubedl_gui\bin\Debug\youtubedl_gui.exe.config
+C:\Users\MINH-LAPTOP\Documents\Visual Studio 2017\Workspace\c#\youtubedl_gui\youtubedl_gui\bin\Debug\youtubedl_gui.exe
+C:\Users\MINH-LAPTOP\Documents\Visual Studio 2017\Workspace\c#\youtubedl_gui\youtubedl_gui\bin\Debug\youtubedl_gui.pdb
+C:\Users\MINH-LAPTOP\Documents\Visual Studio 2017\Workspace\c#\youtubedl_gui\youtubedl_gui\bin\Debug\ConsoleControl.dll
+C:\Users\MINH-LAPTOP\Documents\Visual Studio 2017\Workspace\c#\youtubedl_gui\youtubedl_gui\bin\Debug\ConsoleControlAPI.dll
+C:\Users\MINH-LAPTOP\Documents\Visual Studio 2017\Workspace\c#\youtubedl_gui\youtubedl_gui\bin\Debug\ConsoleControl.pdb
+C:\Users\MINH-LAPTOP\Documents\Visual Studio 2017\Workspace\c#\youtubedl_gui\youtubedl_gui\bin\Debug\ConsoleControlAPI.pdb
+C:\Users\MINH-LAPTOP\Documents\Visual Studio 2017\Workspace\c#\youtubedl_gui\youtubedl_gui\obj\Debug\youtubedl_gui.csprojResolveAssemblyReference.cache
+C:\Users\MINH-LAPTOP\Documents\Visual Studio 2017\Workspace\c#\youtubedl_gui\youtubedl_gui\obj\Debug\youtubedl_gui.Properties.Resources.resources
+C:\Users\MINH-LAPTOP\Documents\Visual Studio 2017\Workspace\c#\youtubedl_gui\youtubedl_gui\obj\Debug\youtubedl_gui.csproj.GenerateResource.Cache
+C:\Users\MINH-LAPTOP\Documents\Visual Studio 2017\Workspace\c#\youtubedl_gui\youtubedl_gui\obj\Debug\youtubedl_gui.csproj.CoreCompileInputs.cache
+C:\Users\MINH-LAPTOP\Documents\Visual Studio 2017\Workspace\c#\youtubedl_gui\youtubedl_gui\obj\Debug\youtubedl_gui.exe
+C:\Users\MINH-LAPTOP\Documents\Visual Studio 2017\Workspace\c#\youtubedl_gui\youtubedl_gui\obj\Debug\youtubedl_gui.pdb
+C:\Users\MINH-LAPTOP\Documents\Visual Studio 2017\Workspace\c#\youtubedl_gui\youtubedl_gui\obj\Debug\youtubedl_gui.MainForm.resources
+C:\Users\MINH-LAPTOP\Documents\Visual Studio 2017\Workspace\c#\youtubedl_gui\youtubedl_gui\obj\Debug\youtubedl_gui.Updater.resources
